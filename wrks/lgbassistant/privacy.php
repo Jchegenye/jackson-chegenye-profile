@@ -49,14 +49,13 @@
                 font-size: 15px;
             }
 
-            .links > a {
+            .links_footer > a {
                 color: #636b6f;
                 padding: 0 25px;
-                font-size: 12px;
+                font-size: 10px;
                 font-weight: 600;
                 letter-spacing: .1rem;
                 text-decoration: none;
-                text-transform: uppercase;
             }
 
             .m-b-md {
@@ -111,6 +110,10 @@
                     color: #b5b5b5;" ><i>Software Developer</i>
                 </p>
 
+                <div class="links_footer" style="text-align: center">
+                    <a href="http://j.chegenye.me/wrks/lgbassistant/support">Support</a>
+                    <a href="http://j.chegenye.me/wrks/lgbassistant/privacy">Privacy</a>
+                </div>
             </div>
         </div>
     </body>
